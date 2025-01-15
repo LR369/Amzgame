@@ -30,6 +30,8 @@ A lot of things came up, that I couldn't debug even with the help of Amazon Q
 Accomplishments that we're proud of
 I managed to enter something!
 
+PLay Here: https://umaino12.itch.io/slimetap?secret=AyxCwHhvIqFXXgNWZSqSVeJSIg
+
 What we learned
 Don't take a break when it's a holiday if you have few bugs. Resolve everything so you remeber what to do when you get back to it...
 
